@@ -1,0 +1,9 @@
+[
+  {
+    "artifact": "frcJava (in project ShortCircuitCore_2021)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "ShortCircuitCore_2021",
+    "language": "java"
+  }
+]
